@@ -1,5 +1,7 @@
 # VectorizedMultiAgentSimulator (VMAS)
 
+The original version is [here](https://github.com/proroklab/VectorizedMultiAgentSimulator)
+
 <p align="center">
 <img src="https://github.com/matteobettini/vmas-media/blob/main/media/VMAS_scenarios.gif?raw=true" alt="drawing"/>  
 </p>
